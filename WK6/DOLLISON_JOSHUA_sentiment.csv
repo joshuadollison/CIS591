@@ -1,0 +1,501 @@
+,review,gpt_sentiment,rating,score,sentiment
+0,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+1,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+2,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+3,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+4,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+5,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+6,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+7,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+8,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+9,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+10,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+11,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+12,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+13,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+14,The design is bland and lacks personality.,Negative,1,0.0,neutral
+15,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+16,The design is bland and lacks personality.,Negative,1,0.0,neutral
+17,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+18,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+19,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+20,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+21,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+22,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+23,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+24,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+25,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+26,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+27,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+28,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+29,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+30,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+31,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+32,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+33,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+34,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+35,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+36,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+37,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+38,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+39,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+40,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+41,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+42,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+43,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+44,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+45,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+46,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+47,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+48,The design is bland and lacks personality.,Negative,1,0.0,neutral
+49,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+50,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+51,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+52,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+53,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+54,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+55,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+56,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+57,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+58,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+59,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+60,The design is bland and lacks personality.,Negative,1,0.0,neutral
+61,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+62,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+63,The design is bland and lacks personality.,Negative,1,0.0,neutral
+64,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+65,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+66,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+67,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+68,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+69,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+70,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+71,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+72,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+73,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+74,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+75,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+76,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+77,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+78,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+79,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+80,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+81,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+82,The design is bland and lacks personality.,Negative,1,0.0,neutral
+83,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+84,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+85,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+86,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+87,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+88,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+89,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+90,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+91,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+92,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+93,The design is bland and lacks personality.,Negative,1,0.0,neutral
+94,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+95,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+96,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+97,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+98,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+99,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+100,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+101,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+102,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+103,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+104,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+105,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+106,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+107,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+108,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+109,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+110,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+111,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+112,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+113,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+114,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+115,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+116,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+117,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+118,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+119,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+120,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+121,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+122,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+123,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+124,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+125,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+126,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+127,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+128,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+129,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+130,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+131,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+132,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+133,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+134,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+135,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+136,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+137,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+138,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+139,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+140,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+141,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+142,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+143,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+144,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+145,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+146,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+147,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+148,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+149,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+150,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+151,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+152,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+153,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+154,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+155,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+156,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+157,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+158,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+159,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+160,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+161,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+162,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+163,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+164,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+165,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+166,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+167,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+168,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+169,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+170,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+171,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+172,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+173,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+174,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+175,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+176,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+177,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+178,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+179,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+180,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+181,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+182,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+183,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+184,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+185,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+186,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+187,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+188,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+189,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+190,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+191,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+192,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+193,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+194,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+195,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+196,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+197,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+198,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+199,The design is bland and lacks personality.,Negative,1,0.0,neutral
+200,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+201,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+202,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+203,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+204,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+205,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+206,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+207,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+208,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+209,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+210,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+211,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+212,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+213,The design is bland and lacks personality.,Negative,1,0.0,neutral
+214,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+215,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+216,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+217,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+218,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+219,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+220,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+221,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+222,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+223,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+224,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+225,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+226,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+227,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+228,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+229,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+230,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+231,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+232,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+233,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+234,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+235,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+236,The design is bland and lacks personality.,Negative,1,0.0,neutral
+237,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+238,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+239,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+240,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+241,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+242,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+243,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+244,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+245,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+246,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+247,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+248,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+249,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+250,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+251,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+252,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+253,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+254,The design is bland and lacks personality.,Negative,1,0.0,neutral
+255,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+256,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+257,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+258,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+259,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+260,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+261,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+262,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+263,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+264,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+265,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+266,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+267,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+268,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+269,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+270,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+271,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+272,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+273,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+274,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+275,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+276,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+277,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+278,The design is bland and lacks personality.,Negative,1,0.0,neutral
+279,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+280,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+281,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+282,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+283,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+284,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+285,The design is bland and lacks personality.,Negative,1,0.0,neutral
+286,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+287,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+288,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+289,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+290,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+291,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+292,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+293,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+294,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+295,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+296,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+297,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+298,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+299,The design is bland and lacks personality.,Negative,1,0.0,neutral
+300,The design is bland and lacks personality.,Negative,1,0.0,neutral
+301,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+302,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+303,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+304,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+305,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+306,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+307,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+308,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+309,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+310,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+311,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+312,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+313,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+314,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+315,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+316,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+317,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+318,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+319,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+320,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+321,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+322,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+323,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+324,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+325,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+326,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+327,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+328,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+329,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+330,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+331,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+332,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+333,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+334,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+335,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+336,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+337,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+338,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+339,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+340,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+341,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+342,The design is bland and lacks personality.,Negative,1,0.0,neutral
+343,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+344,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+345,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+346,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+347,The design is bland and lacks personality.,Negative,1,0.0,neutral
+348,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+349,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+350,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+351,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+352,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+353,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+354,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+355,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+356,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+357,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+358,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+359,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+360,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+361,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+362,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+363,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+364,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+365,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+366,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+367,The design is bland and lacks personality.,Negative,1,0.0,neutral
+368,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+369,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+370,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+371,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+372,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+373,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+374,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+375,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+376,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+377,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+378,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+379,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+380,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+381,The design is bland and lacks personality.,Negative,1,0.0,neutral
+382,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+383,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+384,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+385,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+386,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+387,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+388,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+389,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+390,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+391,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+392,The design is bland and lacks personality.,Negative,1,0.0,neutral
+393,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+394,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+395,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+396,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+397,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+398,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+399,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+400,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+401,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+402,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+403,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+404,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+405,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+406,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+407,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+408,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+409,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+410,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+411,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+412,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+413,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+414,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+415,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+416,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+417,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+418,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+419,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+420,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+421,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+422,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+423,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+424,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+425,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+426,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+427,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+428,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+429,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+430,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+431,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+432,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+433,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+434,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+435,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+436,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+437,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+438,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+439,The design is bland and lacks personality.,Negative,1,0.0,neutral
+440,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+441,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+442,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+443,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+444,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+445,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+446,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+447,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+448,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+449,The design is bland and lacks personality.,Negative,1,0.0,neutral
+450,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+451,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+452,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+453,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+454,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+455,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+456,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+457,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+458,The bag tore after just a few uses; very disappointing.,Negative,1,-0.5413,negative
+459,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+460,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+461,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+462,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+463,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+464,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+465,The material feels flimsy and doesn't seem durable.,Negative,1,0.0,neutral
+466,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+467,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+468,"Color fades after washing, which is a letdown.",Negative,1,0.0,neutral
+469,Durable material that holds up even on rough terrain.,Positive,5,0.0,neutral
+470,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+471,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+472,The design is simple yet stylish; I get compliments all the time.,Positive,5,0.4019,positive
+473,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+474,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+475,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+476,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+477,It doesn't hold up well in wet conditions; water seeps through.,Negative,1,-0.2057,negative
+478,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+479,Lightweight and easy to carry during hikes and picnics.,Positive,5,0.4404,positive
+480,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+481,The tote is incredibly spacious and perfect for outdoor activities.,Positive,5,0.6077,positive
+482,I expected better quality for the price; not worth it.,Negative,1,0.3036,positive
+483,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+484,The stitching came undone after a week of use.,Negative,1,0.0,neutral
+485,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+486,Handles are uncomfortable and dig into my hands.,Negative,1,-0.3818,negative
+487,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+488,The handles are sturdy and comfortable to hold.,Positive,5,0.5106,positive
+489,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+490,The color options are fantastic and match any outfit.,Positive,5,0.5574,positive
+491,It's not as spacious as advertised; feels small.,Negative,1,0.0,neutral
+492,I love that it's eco-friendly; it feels good to support the environment!,Positive,5,0.8777,positive
+493,It cleans easily after outdoor adventures; a big plus for me.,Positive,5,0.5859,positive
+494,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
+495,I appreciate the sustainable materials used; very thoughtful.,Positive,5,0.6801,positive
+496,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+497,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+498,The eco-friendly claim seems questionable; no certifications provided.,Negative,1,-0.5267,negative
+499,Great for carrying all my gear without feeling heavy.,Positive,5,0.5761,positive
